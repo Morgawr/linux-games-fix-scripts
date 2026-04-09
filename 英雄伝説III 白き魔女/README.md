@@ -9,6 +9,7 @@ on their own.
 This patch is specifically for the **unwrapped** version of said binary.
 
 SHA512SU: ec5d534d769793dfb3f7a0cf16b1e37c512d0710d1938117bef72b46fabc48832679d3c97b584a602da8cbd18c9bcb6f0ecc155108c2ead2cf9e8431229d43a0
+
 Binary name: Ed3_win.exe
 
 It is recommended to run the binary in a wine profile with the following installed (via winetricks):
